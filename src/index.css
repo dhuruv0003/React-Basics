@@ -54,10 +54,7 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-Description
-{
-  color: pink;
-}
+
 
 @media (prefers-color-scheme: light) {
   :root {
