@@ -6,9 +6,9 @@ function ProductTab() {
     return (
 
         <div className="ProductTab">
-            <Product title="phone" price="20k" features={features2}></Product>
+            <Product title="phone" price="20k" features={features1}></Product>
             <Product title="car" price="7lakh" features={features1}></Product>
-            <Product title="laptop" price={5800} features={["rsju","Bangya"]}></Product>
+            <Product title="laptop" price={5800} features={["raju","Bangya"]} feature2={features2}></Product>
         </div>
 
     )
