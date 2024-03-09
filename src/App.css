@@ -33,6 +33,11 @@
   }
 }
 
+Description
+{
+  color: pink;
+}
+
 .card {
   padding: 2em;
 }
