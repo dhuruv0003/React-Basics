@@ -6,6 +6,7 @@ import Product from "./Product.jsx"
 import ProductTab from "./Productab.jsx";
 import NewProdTab from "./newprodtab.jsx";
 
+
 function Description() {
   return <h2 className="raju">This is description</h2>
 }
@@ -19,6 +20,7 @@ function App() {
     <Shit/>
     <Description></Description> <ProductTab></ProductTab> */}
     <NewProdTab></NewProdTab>
+  
   </>)
 }
 
