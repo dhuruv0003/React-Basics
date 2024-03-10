@@ -13,7 +13,7 @@ function Product({ title, price, features = ["hi", "hello", "kasie ho"], feature
             <h2>{discount}</h2>
             {/* also we can do . */}
             <h2>    {price<15000 && <p>Hello Ji No discount</p>}    </h2>
-        </div>
+        </div> 
     );
 }
 
